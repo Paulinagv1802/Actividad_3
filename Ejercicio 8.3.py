@@ -2,8 +2,6 @@ import math
 import tkinter as tk
 from tkinter import messagebox
 
-# ... (Las clases lógicas FiguraGeometrica, Cilindro, Esfera y Piramide se quedan idénticas a la Versión 1) ...
-
 class FiguraGeometrica:
     def __init__(self):
         self._volumen = 0.0
